@@ -1,0 +1,18 @@
+{
+    "name": "ionic-pickcity",
+    "version": "0.1.0",
+    "homepage": "https://dreamover-studio.com",
+    "authors": [
+        "Dreamover Studio"
+    ],
+    "description": "",
+    "main": [
+      "dist/ionic-pickcity.min.js",
+      "dist/ionic-pickcity.min.css"
+    ],
+    "keywords": [
+        "angular",
+        "swiper"
+    ],
+    "license": "Apache"
+}
