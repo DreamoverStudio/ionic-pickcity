@@ -14,5 +14,12 @@
         "angular",
         "swiper"
     ],
-    "license": "Apache"
+    "license": "Apache",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
