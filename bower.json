@@ -7,8 +7,8 @@
     ],
     "description": "",
     "main": [
-      "dist/ionic-pickcity.min.js",
-      "dist/ionic-pickcity.min.css"
+      "dist/ionic-pickcity.js",
+      "dist/ionic-pickcity.css"
     ],
     "keywords": [
         "angular",
